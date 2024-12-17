@@ -1,4 +1,5 @@
-- 👋 Hi
+- 👋 Hello World!
+- Bionic Sky - AlphaSQ 
 - Blockchain Dev/ Qbit / Cyber Tech
 <!---
 AlphaSQ/AlphaSQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
